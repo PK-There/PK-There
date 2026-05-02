@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&size=28&center=true&vCenter=true&width=600&lines=AI+Developer;Building+Real+World+Projects;Always+Learning+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&size=28&center=true&vCenter=true&width=600&lines=AI+ML+Developer;Building+Real+World+Projects;Always+Learning+%F0%9F%9A%80" />
 </p>
 
 # Hi, I'm Prathamesh 👋
