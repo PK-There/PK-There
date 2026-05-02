@@ -18,3 +18,7 @@ Java | JS | Python
 ---
 
 ⚡ Building > Talking
+
+![Stats](https://github-readme-stats.vercel.app/api?username=PK-There&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PK-There&layout=compact&theme=radical)
