@@ -19,6 +19,7 @@ Java | JS | Python
 
 ⚡ Building > Talking
 
-![Stats](https://github-readme-stats-mu-wheat-58.vercel.app/api?username=PK-There&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats-mu-wheat-58.vercel.app/api/top-langs/?username=PK-There&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats-mu-wheat-58.vercel.app/api?username=PK-There&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats-mu-wheat-58.vercel.app/api/top-langs/?username=PK-There&layout=compact&theme=radical" height="180"/>
+</p>
